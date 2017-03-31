@@ -11,7 +11,9 @@ The main folder contains three sub folders
 3. VLFeat
 
 	Code: This contains two sections, CodeForClassification and CodeForGeneratingDatabase
-	Data: Contains training data, test data and videosForGeneratingDatabase. Replace this folder with https://www.dropbox.com/sh/2s5hiplso5uzvwi/AACYjXWmTlRHNeImIeavLGbia?dl=0
+	Data: Contains training data, test data and videosForGeneratingDatabase. 
+		Replace this folder with https://www.dropbox.com/sh/2s5hiplso5uzvwi/AACYjXWmTlRHNeImIeavLGbia?dl=0
+
 	VLFeat: This is essential for running classification functions from vlfeat. 
 			This folder should be at the same level as that of Code. Else, the path should be changed in runMe.m 
 			You can download it from http://www.vlfeat.org/matlab/matlab.html if it doesn't exist in the aforementioned path.
