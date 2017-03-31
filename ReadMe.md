@@ -11,6 +11,7 @@ The main folder contains three sub folders
 3. VLFeat
 
 	Code: This contains two sections, CodeForClassification and CodeForGeneratingDatabase
+	
 	Data: Contains training data, test data and videosForGeneratingDatabase. 
 		Replace this folder with https://www.dropbox.com/sh/2s5hiplso5uzvwi/AACYjXWmTlRHNeImIeavLGbia?dl=0
 
